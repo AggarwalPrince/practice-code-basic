@@ -1,1 +1,0 @@
- let game = [ ['x',null,'0'] , [null,'x',null] , ['0',null,'x'] ] ;
